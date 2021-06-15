@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Maicon jordan # (don't play basketball)
+## I'm Maicon jordan (don't play basketball)
+
+- Brazil 
+- T.I Support analyst (current job)
+- 28y 
+- i have been learning more about JavaScript 
+
+## Connect whit me 
+
+<a href="https://www.linkedin.com/in/maiconj/" target="_blank">
+<img align="center" alt="Maicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg">
+
+
+
 
 
