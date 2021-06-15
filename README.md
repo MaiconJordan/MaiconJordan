@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Connect whit me 
 
 <a href="https://www.linkedin.com/in/maiconj/" target="_blank">
-<img align="center" alt="Maicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg">
+<img align="center" alt="Maicon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%">
 
 
 
