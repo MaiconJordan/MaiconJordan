@@ -3,8 +3,8 @@
 ## I'm Maicon jordan (don't play basketball)
 
 - Brazil 🇧🇷
-- T.I Support analyst (current job) 💻:briefcase:
-- 28y 
+- T.I Support analyst N2(current job) 💻:briefcase:
+- 29y 
 - i have been learning more about Java 📚
 
 ## Connect whit me 
