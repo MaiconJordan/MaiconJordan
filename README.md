@@ -5,7 +5,7 @@
 - Brazil 🇧🇷
 - System Analyst (current job) 💻:briefcase:
 - 29y 
-- i have been learning more about Java 📚
+- i have been learning more about Python 📚
 
 ## Connect whit me 
 
