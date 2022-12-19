@@ -15,7 +15,7 @@
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%">
   
  ## My skills and learning  
-   <img align="center" alt="Maicon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%">
+
    <img align="center" alt="Maicon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%">
    <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%"> 
    <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%">
