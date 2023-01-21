@@ -16,12 +16,15 @@
   
  ## My skills and learning  
 
-   <img align="center" alt="Maicon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%">
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%"> 
+   <img align="center" alt="Maicon" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%">
+      <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="maxwidth:100%">
+        <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="maxwidth:100%">
+        <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="maxwidth:100%">
+    <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="maxwidth:100%">
+     <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%">
+     <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%"> 
    <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%">
    <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%">
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%">
-    <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="maxwidth:100%">
    <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%"> 
    <br>
    <br>
@@ -32,14 +35,3 @@
     
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconJordan&layout=compact)](https://github.com/MaiconJordan/github-readme-stats)
-
-    
-    
-    
-     
-
-
-
-
-
-
