@@ -20,7 +20,9 @@
    <img align="center" alt="Maicon" height="28" width="88" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-width:100%">
    <img align="center" alt="Maicon" height="28" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%"> 
    <img align="center" alt="Maicon" height="28" width="130" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width:100%">
-   <img align="center" alt="Maicon" height="28" width="75" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%">   
+   <img align="center" alt="Maicon" height="28" width="75" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%">  
+    <img align="center" alt="Maicon" height="28" width="75" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width:100%">   
+   
    <br>
    <br> 
 
