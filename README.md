@@ -5,7 +5,7 @@
 - Brazil 🇧🇷
 - System Analyst (current job) 💻:briefcase:
 - 30y 
-- i have been learning more about Java 📚
+- i have been learning more about Java ☕
 
 ## Connect whit me 
 
@@ -16,18 +16,16 @@
   
  ## My skills and learning  
 
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="maxwidth:100%">
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%">
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width:100%"> 
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width:100%">
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%">
-   <img align="center" alt="Maicon" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%"> 
+   <img align="center" alt="Maicon" height="28" width="88" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="maxwidth:100%">
+   <img align="center" alt="Maicon" height="28" width="88" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-width:100%">
+   <img align="center" alt="Maicon" height="28" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%"> 
+   <img align="center" alt="Maicon" height="28" width="130" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width:100%">
+   <img align="center" alt="Maicon" height="28" width="75" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%">   
    <br>
-   <br>
-    
-    
+   <br> 
 
     
     
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconJordan&layout=compact)](https://github.com/MaiconJordan/github-readme-stats)
+ 
