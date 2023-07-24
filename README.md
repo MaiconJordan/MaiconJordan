@@ -1,6 +1,6 @@
 
 
-## I'm Maicon jordan (don't play basketball)
+## I'm Maicon jordan 
 
 - Brazil 🇧🇷
 - System Analyst (current job) 💻:briefcase:
