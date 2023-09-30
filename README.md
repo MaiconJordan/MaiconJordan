@@ -5,7 +5,8 @@
 - Brazil 🇧🇷
 - System Analyst (current job) 💻:briefcase:
 - 30y 
-- i have been learning more about Java ☕
+- Data Analyst
+- DBA 
 
 ## Connect whit me 
 
