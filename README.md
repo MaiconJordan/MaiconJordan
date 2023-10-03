@@ -6,9 +6,7 @@
 - System Analyst (current job) 💻:briefcase:
 - 30y 
 - Data Analyst
-- DBA 
-
-
+- DBA
   
  ## My skills and learning  
 
