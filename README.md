@@ -17,12 +17,14 @@
   
  ## My skills and learning  
 
-   <img align="center" alt="Maicon" height="28" width="88" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="maxwidth:100%">
-   <img align="center" alt="Maicon" height="28" width="88" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-width:100%">
-   <img align="center" alt="Maicon" height="28" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%"> 
-   <img align="center" alt="Maicon" height="28" width="130" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width:100%">
-   <img align="center" alt="Maicon" height="28" width="75" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%">  
-    <img align="center" alt="Maicon" height="28" width="75" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width:100%">   
+   <img align="center" alt="Maicon"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="maxwidth:100%">
+   <img align="center" alt="Maicon"  src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="max-width:100%">
+   <img align="center" alt="Maicon"  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="max-width:100%"> 
+   <img align="center" alt="Maicon"  src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="max-width:100%">
+   <img align="center" alt="Maicon"  src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="max-width:100%">     
+   <img align="center" alt="Maicon"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%"> 
+    <img align="center" alt="Maicon"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width:100%">   
+    
    
    <br>
    <br> 
