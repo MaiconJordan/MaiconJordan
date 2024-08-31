@@ -6,7 +6,7 @@
 - Over 4 Years Experience
 - System Support Analyst SR (current job) 💻
 - Java ☕ 🌐
-- Database Analyst 📊
+- System Analyst 📊
   
  ## My skills and learning  
 
