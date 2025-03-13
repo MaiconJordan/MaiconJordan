@@ -4,7 +4,7 @@
 
 - Brazil 🇧🇷
 - Over 4 Years Experience
-- System Support Analyst SR (current job) 💻
+- Senior System Support Analyst  (current job) 💻
 - Java ☕ 🌐
 - System Analyst 📊
   
