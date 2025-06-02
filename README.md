@@ -5,7 +5,7 @@
 - Brazil 🇧🇷
 - Over 4 Years Experience
 - Senior System Support Analyst  (current job) 💻
-- Java ☕ 🌐
+- Java  / Python ☕ 🐍
 - System Analyst 📊
   
  ## My skills and learning  
