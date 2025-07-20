@@ -2,16 +2,21 @@
 
 ## I'm Maicon Jordan 
 
-- Brazil 🇧🇷
+
 - Over 5 Years Experience
 - Senior System Support Analyst  (current job) 💻
-- Java  / Python ☕ 🐍
-- System Analyst 📊
+- System Analisys and Development 🎓
+- Brazil 🇧🇷
   
  ## My skills and learning  
 
-  <img align="center" alt="Maicon"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white*" style="max-width:100%"> <img align="center" alt="Maicon"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="maxwidth:100%"> <img align="center" alt="Maicon"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-width:100%"> <img align="center" alt="Maicon"  src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="max-width:100%"> <img align="center" alt="Maicon"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><img align="center" alt="Maicon"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%"> 
-    <img align="center" alt="Maicon"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width:100%">   
+<img align="center" alt="Maicon"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white*" style="max-width:100%"><img align="center" alt="Maicon"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="max-width:100%"> 
+<img align="center" alt="Maicon"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="maxwidth:100%"> 
+<img align="center" alt="Maicon"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-width:100%"> 
+<img align="center" alt="Maicon"  src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="max-width:100%"> 
+<img align="center" alt="Maicon"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align="center" alt="Maicon"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width:100%"> 
+<img align="center" alt="Maicon"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width:100%">   
     
 ## Connect whit me 
 
